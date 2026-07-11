@@ -1,0 +1,19 @@
+/* Suresh Shrestha */
+/* 7/10/2026 */
+/* Module-7.2 Assignment */
+
+/* Style class */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+/* IDs */
+#redcircle {
+    -fx-fill: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+}
